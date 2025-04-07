@@ -1,20 +1,100 @@
-diary.md
+# Coding Diary  
 
-#Coding Diary  
+## Month 1 - 06/03/2025
 
-## Day 1 - 06/03/2025
+### Who Am I and Why Am I Doing This?
 
- - Who am i and why im doing this?
+Hello, World! My name is Pedro Caçador Pochyly da Costa,
+and I am learning Python! I also want to get better at  
+English — writing and speaking — and that’s why I  
+started this Coding Diary. It’s a place to talk about  
+my progress and practice both things at the same time.
 
-Hello World! My name is Pedro Caçador Pochyly da Costa and im trying to learn python! Furthermore, besides coding, im trying to improve my English whriting and speaking, thats the hole point why i created this Coding Diary!
+A little about me: I have a bachelor’s degree in  
+Economics from UNB (University of Brasília), one of  
+the top 5 universities in Brazil. When I started  
+studying economics, I wasn’t sure if it was the right  
+choice for me. I didn’t know what I really liked.  
+But then I took classes in Statistics, Mathematics,  
+and Econometrics, and I worked in junior and senior  
+consultancies. These experiences made me more  
+interested in numbers and data. That’s how I found  
+Data Analysis, and now I am here learning programming  
+languages.
 
-Without getting too deep into my history, im a bacherlors degree in economics, at UNB (University of Brasília), one of the best (top 5) Universities in Brazil! at the start of my jurney in economics, i wasn´t very sure if i would preceed, because i did not know if th_
-at was what i was realy into to. Althouth, overtime,learning/studyng statistics, Mathematics, Econometrics and working on Junior and Senior Consultancies i became more and more interested on the subjects, leading me to Data Analysis and consequently to programming leangua_
-ges.
+I said this is my “first day” with Python, but it’s  
+not exactly true. I started 4-5 months ago when the  
+company where I have an internship bought a course  
+called “Código.py.” It was my first time with coding,  
+and I liked it! I took notes, did exercises, and  
+learned how to write simple programs. But after a  
+few weeks, I stopped. I lost motivation because it  
+was hard to study alone, and I had a lot of work at  
+my internship. Some time passed, and my interest  
+came back stronger. I looked online and saw that  
+Python, with libraries like NumPy, Pandas, and  
+others, can help me analyze data faster and better.  
+That’s why I decided to try again!
 
-Althought i stated this as my first day trying to code in python that couldn´t be further from the truth, that´s because i started this jurney approximately 5-4 Months ago when the company where i have an internship bought a python course called ''Codigo.py''. Therefore, i
-became realy intrested in this subject and started doing it, taking notes, doing exercises... But, after some short weeks i dropped it, thats because my lack of motivation hited hard. After some time, my intrest came back and after looking around and doing some research i
-found out that python and some librarys could help me a lot on my journey!
+Now, I am studying the basics of NumPy. Before that,  
+I spent time learning the first steps of Python —  
+things like variables, loops, and functions. It took  
+me a few weeks to understand everything, but I did  
+many exercises to practice (you can see them in the  
+“Lógica de Programação” folder). Sometimes it’s  
+difficult, especially when I make mistakes and don’t  
+know why the code doesn’t work. But when I fix it,  
+I feel happy! I want to use Python for my internship  
+soon, maybe to help with some reports or data from  
+the company.
 
-So, im currently learning the basics of Numpy, after a long way to realy understand and practice the Basics of Pyhon, (you can see my progress and exercises of this step on the folder called ''Lógica de Programação''.
+## Month 2 - 07/03/2025
 
+### Back with News!
+
+Hello, guys! One month passed, and I am here again  
+to tell you what I learned, what I did, and what I  
+want to do next. It’s been a busy time, but I am  
+excited to share everything!
+
+First, in the “Código.py” course, I finished the  
+Pandas module! I did about 40 exercises to learn its  
+functions — things like reading files, cleaning data,  
+and making tables (you can find them in the Course  
+Folder). I think I know what Pandas can do now, but  
+I still forget some syntax when I write code. For  
+example, I mix up how to use `iloc` and `loc`  
+sometimes, and I need to check my notes to remember.  
+It’s not a big problem — I just need more practice.  
+One thing I liked learning was how to use `groupby()`  
+to analyze data in groups. I tested it with a small  
+dataset from my internship about sales, and it  
+showed me how sales change by month. It’s very  
+useful for economics!
+
+Now, I am studying the Matplotlib module, and I  
+really like it! Making graphs is fun and helps me  
+see data in a new way. I started with simple things,  
+like bar charts and line graphs. Yesterday, I made  
+a line graph that shows changes in data when I move  
+the mouse over it — it’s interactive, and I learned  
+how to add this with a function called `mplcursors`.  
+It took me two hours to make it work, but it was  
+worth it! I used fake data about prices, but I want  
+to try it with real data soon. Another thing I did  
+was a bar chart to compare sales from different  
+stores. It looked good, and I showed it to my boss  
+at the internship. He said it’s interesting!
+
+Next, I have some plans. I want to finish the  
+Matplotlib module this month and start learning  
+Scikit-learn after that. I heard it’s good for  
+machine learning, and I want to try it because my  
+internship has a project about predicting sales.  
+Also, I am thinking about a small project: using  
+Pandas and Matplotlib together to make a report  
+with tables and graphs for my company. Maybe I can  
+add some colors and save it as a PDF file to show  
+my team. I don’t know if it will work yet, but I  
+will try! I will write here again to tell you how  
+it goes.
